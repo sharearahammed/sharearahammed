@@ -73,7 +73,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
-<p>
+<div class="flex">
+  <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharearahammed&show_icons=true&locale=en&layout=compact" alt="sharearahammed" />
 </p>
 <p>&nbsp;
@@ -82,3 +83,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharearahammed&" alt="sharearahammed" />
 </p>
+</div>
