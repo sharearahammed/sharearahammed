@@ -6,8 +6,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sharearahammed&label=Profile%20views&color=0e75b6&style=flat" alt="sharearahammed" />
 </p>
-🌱 I’m currently learning Next.js
-💬 Ask me about React, Node, JavaScript, etc.
+🌱 I’m currently learning Next.js<br>
+💬 Ask me about React, Node, JavaScript, etc.<br>
 📫 How to reach me: sharearahammed@gmail.com <br>
 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MLA9S7JRtwxswLwuGxM5FbfF6wKCxkBy/view?usp=sharing">My Resume</a>
 <h3 align="left">Connect with me:</h3>
