@@ -46,7 +46,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS.3.svg&psig=AOvVaw2YtHfeiKspU1-J8sB2pX6a&ust=1719981060568000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDu1vPCh4cDFQAAAAAdAAAAABAE" alt="html5" width="40" height="40" />
+    <img src="![image](https://github.com/sharearahammed/sharearahammed/assets/106548719/40842361-8506-42cf-bf38-7bcb5d731d9d)
+" alt="html5" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
