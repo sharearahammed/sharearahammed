@@ -8,7 +8,7 @@
 </p>
 🌱 I’m currently learning Next.js
 💬 Ask me about React, Node, JavaScript, etc.
-📫 How to reach me: sharearahammed@gmail.com
+📫 How to reach me: sharearahammed@gmail.com <br>S
 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MLA9S7JRtwxswLwuGxM5FbfF6wKCxkBy/view?usp=sharing">My Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
