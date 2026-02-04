@@ -9,7 +9,7 @@
 🌱 I’m currently learning Next.js<br>
 💬 Ask me about React,Nextjs, Node, JavaScript, etc.<br>
 📫 How to reach me: sharearahammed@gmail.com <br>
-📄 Know about my experiences: <a href="[https://drive.google.com/file/d/1b3rerPvFfqOBj0Epgu0mOmboN-QazmSp/view?usp=sharing](https://docs.google.com/document/d/1vOV0j675rh6-0m-MAS7POGI7L407Yzn_YKTnthR1kBk/edit?usp=sharing)">My Resume</a>
+📄 Know about my experiences: <a href="https://docs.google.com/document/d/1vOV0j675rh6-0m-MAS7POGI7L407Yzn_YKTnthR1kBk/edit?usp=sharing">My Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/nihalsharear" target="blank">
