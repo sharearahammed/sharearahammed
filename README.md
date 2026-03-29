@@ -186,7 +186,7 @@ A passionate **Full-Stack Web Developer** from 🇧🇩 **Dhaka, Bangladesh** wi
 
 ## 💼 Work Experience
 
-<table>
+<table align="center">
   <tr>
     <td>
       <strong>Front-End Developer</strong> — <a href="#">Fly Far Tech</a>, Dhaka<br/>
