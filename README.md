@@ -29,23 +29,23 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-```typescript
-const nihal = {
-  name: "Sharear Ahammed Nihal",
-  role: "Full-Stack Web Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: "B.Sc. in CSE — AIUB (CGPA: 3.44)",
-  experience: "1+ year professional experience",
-  email: "sharearahammed@gmail.com",
-  currentlyLearning: ["Next.js advanced patterns", "System Design", "PostgreSQL optimization"],
-  askMeAbout: ["React", "Next.js", "Node.js", "TypeScript", "JavaScript"],
-  funFact: "I contributed to 50–65% of responsive UI across multiple production projects 🚀"
-};
-```
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
+
+### 🙋‍♂️ Hi, I'm Nihal!
+
+A passionate **Full-Stack Web Developer** from 🇧🇩 **Dhaka, Bangladesh** with **1+ year** of professional experience building scalable, responsive web applications.
+
+- 🔭 &nbsp; Currently working on **Next.js** full-stack projects
+- 🌱 &nbsp; Learning **System Design** & **PostgreSQL optimization**
+- 💼 &nbsp; Ex **Front-End Developer** @ Fly Far Tech
+- 🎓 &nbsp; **B.Sc. in CSE** — AIUB &nbsp;|&nbsp; CGPA: **3.44**
+- 💬 &nbsp; Ask me about **React, Next.js, Node.js, TypeScript**
+- 📫 &nbsp; Reach me at **sharearahammed@gmail.com**
+- ⚡ &nbsp; Fun fact: I contributed to **50–65%** of responsive UI across multiple production projects!
+
+<br clear="right"/>
 
 ---
 
