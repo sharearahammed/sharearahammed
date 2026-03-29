@@ -84,7 +84,7 @@ A passionate **Full-Stack Web Developer** from 🇧🇩 **Dhaka, Bangladesh** wi
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 Skill Bridge</h3>
@@ -233,7 +233,7 @@ A passionate **Full-Stack Web Developer** from 🇧🇩 **Dhaka, Bangladesh** wi
 <a href="mailto:sharearahammed@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/sharear-ahammed-nihal">
+<a href="https://linkedin.com/in/sharear-ahammed-nihal-27899b354">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/nihalsharear">
@@ -242,7 +242,7 @@ A passionate **Full-Stack Web Developer** from 🇧🇩 **Dhaka, Bangladesh** wi
 <a href="https://fb.com/sharear.ahammed.10">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://instagram.com/bitter_melon_010">
+<a href="https://www.instagram.com/bitter_melon_10">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
